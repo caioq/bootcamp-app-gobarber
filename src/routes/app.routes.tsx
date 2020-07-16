@@ -1,9 +1,9 @@
 import React from 'react';
 import { createStackNavigator } from '@react-navigation/stack';
 
-import Profile from 'src/pages/Profile';
-import CreateAppointment from 'src/pages/CreateAppointment';
-import AppointmentCreated from 'src/pages/AppointmentCreated';
+import Profile from '../pages/Profile';
+import CreateAppointment from '../pages/CreateAppointment';
+import AppointmentCreated from '../pages/AppointmentCreated';
 
 import Dashboard from '../pages/Dashboard';
 
